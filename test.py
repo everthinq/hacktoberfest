@@ -18,4 +18,4 @@ if a > b:
 print(a, b, c)
 
 
-# mmmmm kakaya ti interesnaya zadacha
+# mmmmm kakaya ti interesnaya zada4a
