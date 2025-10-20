@@ -18,4 +18,4 @@ if a > b:
 print(a, b, c)
 
 
-
+# mmmmm kakaya ti interesnaya zadacha
